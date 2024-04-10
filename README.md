@@ -1,2 +1,3 @@
 # The b-strategy
-- Breaking Change added -> Creating v2
+- Feat Change added -> Creating v1.1.0
+- Feat Breaking Change added -> v2.0.0
