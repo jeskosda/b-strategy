@@ -1,1 +1,2 @@
-# 2.0 b-strategy
+# The b-strategy
+- Breaking Change added -> Creating v2
