@@ -1,1 +1,1 @@
-# b-strategy
+# 2.0 b-strategy
